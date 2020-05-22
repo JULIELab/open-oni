@@ -120,8 +120,8 @@ descriptions that will only show up occasionally.
 For example: 'Open ONI' for most headers, 'Open Online Newspapers Initiative'
 for introduction / about / further information / etc
 """
-SITE_TITLE = 'YOUR_SHORT_PROJECT_NAME'
-PROJECT_NAME = 'YOUR_LONG_PROJECT_NAME'
+SITE_TITLE = 'Romantik-Zeitungen'
+PROJECT_NAME = 'Romantik-Zeitungen'
 
 # Relative path from core and theme apps to subdirectory with essay templates.
 # For example: 'essays' will find files in themes/*/templates/essays
