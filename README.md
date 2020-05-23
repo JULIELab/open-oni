@@ -1,3 +1,12 @@
+# JULIE Lab's fork of Open ONI
+
+Changes to Open ONI for **romantik-zeitungen.de** and **romanticode.de** are maintained in this repository's 
+branches other then **master** and **dev** (the forked branches from upstream).
+Currently there is only one project specific branch **amz** with changes to the template, a project description and
+a **RUNBOOK** with notes how we currently operate the online instance &mdash; which is probably totally useless to others and serves only as documentation (e.g. for maintenance, or for disaster recovery) for us.
+
+The README from upstream begins here:
+
 # Open ONI
 **Open Online Newspaper Initiative (Open ONI)** is a community-maintained
 project to make historic American newspapers browsable and searchable on the
