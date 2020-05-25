@@ -11,5 +11,5 @@ requests
 rfc3339
 setuptools
 simplejson
-solrpy
+solrpy<1.0
 worldcat
